@@ -1,0 +1,8 @@
+[BaseOS]
+
+baseurl='ftp://yumserver/pub/dvd/BaseOS/'
+gpgkey='ftp://yumserver/pub/dvd/RPM-GPG-KEY-redhat-release'
+
+[AppStream]
+baseurl='ftp://yumserver/pub/dvd/AppStream/'
+gpgkey='ftp://yumserver/pub/dvd/RPM-GPG-KEY-redhat-release'
